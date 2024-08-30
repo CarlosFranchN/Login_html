@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card</title>
+    <link rel="stylesheet" href="/card/card_style.css">
+</head>
+<body>
+    <div class="card">
+        <img src="https://i.pinimg.com/236x/ad/29/20/ad2920a75121ad45496aaf1675d93a42.jpg" class="card_img" alt="">
+        <div class="product_info">
+            <h2>
+                Produto: <p>Jojo</p>
+            </h2>
+
+            <h3>
+                Preço: <p>R$ 5000,00 </p>
+            </h3>
+
+            <h3>
+                Quantidade: <p>1</p>
+            </h3>
+
+            <h3>
+                Descrição: <p>Um machadão pika q desce o cacete em quem achar ruim, e quem gosta... vai ver o sangue jorrar</p>
+            </h3>
+
+        </div>
+    </div>
+</body>
+</html>
